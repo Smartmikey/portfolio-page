@@ -1,2 +1,0 @@
-/Guide.txt
-/frame-color-guide.jpg
